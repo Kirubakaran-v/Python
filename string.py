@@ -9,3 +9,16 @@
 # c = b - 1
 # # print the character
 # print(a[c])
+
+# a = "Hello, World!"
+# b = a.replace("l", "j")
+# b = a.upper()
+# print(b)
+
+# price = 59
+# txt = f"The price is {price} dollars"
+# print(txt)
+
+price = 59
+txt = "The price is " + str(price) + " dollars"
+print(txt)
