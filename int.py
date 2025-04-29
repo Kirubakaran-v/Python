@@ -14,5 +14,5 @@
 # y = 2.8
 # print(int(y))
 
-x = 5
-print(float(x))
+# x = 5
+# print(float(x))
