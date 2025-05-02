@@ -15,3 +15,4 @@ Clone the repo and run any `.py` file to explore a topic:
 ```bash
 git clone https://github.com/Kirubakaran-v/Python_learning.git
 cd Python_learning
+python3 hello.py
