@@ -44,3 +44,16 @@
 #     string, max_width = input(), int(input())
 #     result = wrap(string, max_width)
 #     print(result)
+
+# def print_formatted(number):
+#     max_width = len(str(number))
+#     for i in range(1,number+1):
+#         decimal = i
+#         octal = oct(decimal)
+#         hexadecimal = hex(decimal)
+#         binary = bin(decimal)
+#         print(f"{decimal} {octal[2:]} {hexadecimal[2:].upper()} {binary[2:]}") 
+
+# if __name__ == '__main__':
+#     n = int(input())
+#     print_formatted(n)
