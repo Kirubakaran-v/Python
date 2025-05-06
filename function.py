@@ -13,10 +13,11 @@
 
 # test_function(my_variable, my_variable2, my_variable3)
 
-def my_function(country = "Norway"):
-    print("I am from " + country)
+# def my_function(country = "Norway"):
+#     print("I am from " + country)
 
-my_function("Sweden")
-my_function("India")
-my_function()
-my_function("Brazil")
+# my_function("Sweden")
+# my_function("India")
+# my_function()
+# my_function("Brazil")
+
